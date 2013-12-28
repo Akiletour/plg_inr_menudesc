@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.6" type="plugin" group="system">
+	<name>Extend Menu - Menus Description</name>
+	<creationDate>December 2013</creationDate>
+	<author>inRage</author>
+	<authorEmail>pascal@inrage.fr</authorEmail>
+	<authorUrl>www.inrage.fr</authorUrl>
+	<copyright>(C) 2005 - 2013 inRage. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<version>1.0.0</version>
+	<description>Add a description field to menus</description>
+	<files>
+		<filename plugin="plg_inr_menudesc">plg_inr_menudesc.php</filename>
+		<folder>menus</folder>
+	</files>
+</extension>
